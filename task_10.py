@@ -4,6 +4,6 @@
 
 MOVIE = 'dr. strangelove or: how i learned to stop worrying and love the bomb'
 
-MOVIE = MOVIE.upper()
+ENTITLED = MOVIE.title()
 
-print MOVIE
+print ENTITLED
