@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""A computer that can build the question."""
+"""I have to add some senteces to this docstring.
+Then, I will break it in two paraghraps to see how
+multi-line string work. 
+
+A computer that can build the question."""
 
 THE_ANSWER_TO_EVERYTHING = 42
 
